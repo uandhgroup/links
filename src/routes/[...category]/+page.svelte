@@ -67,7 +67,7 @@
 				</div>
 			</a>
 			<div class="text-sm -mt-2">
-				Data by the <a href="https://techtips.hhf.co.in/hosting-on-premises"
+				Formulated by HHF TechTips <a href="https://techtips.hhf.co.in/hosting-on-premises"
 					>HHF Hosting On-Premises</a
 				>
 				community, licensed under
